@@ -19,7 +19,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repository/3D-Personal-Website.git
+git clone https://github.com/PersonalWebsite/3D-Personal-Website.git
 cd 3D-Personal-Website
 Install dependencies:
 
