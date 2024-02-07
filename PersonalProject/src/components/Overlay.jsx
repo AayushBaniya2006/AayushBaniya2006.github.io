@@ -37,6 +37,7 @@ export const Overlay = () => {
 
   return (
     <Scroll html>
+   
       <div class="w-screen">
         <Section opacity={opacityFirstSection}>
           <h1 className="font-semibold font-serif text-2xl">
